@@ -2,7 +2,7 @@
 
 A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version.
 
-### Usage
+### Usage    
 
 ```Dockerfile
 name: Bump version
