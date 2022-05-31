@@ -1,6 +1,6 @@
 # github-tag-action
 
-A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version.
+A Github  Action to automatically bump and tag master, on merge, with the latest SemVer formatted version.
 
 ### Usage    
 
