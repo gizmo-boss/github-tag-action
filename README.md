@@ -80,7 +80,3 @@ If `#none` is contained in the commit message, it will skip bumping regardless `
 A list of projects using github-tag-action for reference.
 
 - another/github-tag-action (uses itself to create tags)
-
-- [anothrNick/json-tree-service](https://github.com/anothrNick/json-tree-service)
-
-  > Access JSON structure with HTTP path parameters as keys/indices to the JSON.
